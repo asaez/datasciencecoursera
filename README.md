@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo for the Data Scienctisti's Toolbox course
+Repo for the Data Scienctist's Toolbox course
